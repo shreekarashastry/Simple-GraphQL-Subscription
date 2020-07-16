@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^2.15.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "graphql-subscriptions": "^1.1.0",
+    "graphql-tools": "^6.0.13",
+    "http": "^0.0.1-security",
+    "subscriptions-transport-ws": "^0.9.17"
+  }
+}
